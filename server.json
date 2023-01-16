@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id":1,
+      "id": 1,
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,12 +9,36 @@
       "createdAt": "2023-01-09T18:36:37.739Z"
     },
     {
-      "id":2,
+      "id": 2,
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-01-09T18:02:37.739Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-01-16T18:02:31.005Z",
+      "id": 3
+    },
+    {
+      "description": "Iogurte de Coco",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-16T18:20:09.394Z",
+      "id": 4
+    },
+    {
+      "description": "Jogo",
+      "price": 20,
+      "category": "Laser",
+      "type": "outcome",
+      "createdAt": "2023-01-16T18:30:37.194Z",
+      "id": 5
     }
   ]
 }
