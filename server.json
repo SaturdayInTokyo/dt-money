@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2023-01-16T18:20:09.394Z",
       "id": 4
+    },
+    {
+      "description": "Jogo",
+      "price": 20,
+      "category": "Laser",
+      "type": "outcome",
+      "createdAt": "2023-01-16T18:30:37.194Z",
+      "id": 5
     }
   ]
 }
